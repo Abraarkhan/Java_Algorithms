@@ -22,6 +22,7 @@ And run the algorithm you want to test out.
 * [QuickSort](https://github.com/Abraarkhan/Java_Algorithms/blob/main/QuickSort.java)
 * [Armstrong Number](https://github.com/Abraarkhan/Java_Algorithms/blob/main/armstrong_no.java)
 * [Diamond shape](https://github.com/Abraarkhan/Java_Algorithms/blob/main/diamond_shape.java)
+* [Bubble Sort](https://github.com/Abraarkhan/Java_Algorithms/BubbleSort.java)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
