@@ -52,7 +52,8 @@ And run the algorithm you want to test out.
 
 <br><br>
 
-
+<div align="center">
 ## Contributing
 <p>Pull requests are welcome.</p>
 <p> For major changes, please open an issue first to discuss what you would like to change.</p>
+</div>
