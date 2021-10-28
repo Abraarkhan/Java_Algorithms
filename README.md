@@ -7,7 +7,6 @@
 <br>
 
 ## Usage
-<br>
 
 Clone the repository:
 
@@ -15,6 +14,7 @@ Clone the repository:
 git clone https://github.com/Abraarkhan/Java_Algorithms.git
 ```
 And run the algorithm you want to test out.
+<br>
 
 ## Available Algorithms
 <br>
