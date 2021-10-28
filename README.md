@@ -1,6 +1,9 @@
-# <div align="center"> Java Algorithms </div>
+# <div align="center"> Java Algorithms 
 
 <div align="center">Java Algorithms is a set of good solutions of CP questions in Java.</div>
+
+</div>
+
 
 ## Usage
 
