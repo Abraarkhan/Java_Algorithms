@@ -1,5 +1,5 @@
 # <div align="center"> Java Algorithms </div>
-:pencil2:
+##:pencil2:
 
 Java Algorithms is a set of good solutions to CP questions in Java.
 
