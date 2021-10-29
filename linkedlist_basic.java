@@ -26,3 +26,7 @@ public class Test {
         System.out.println(ll);
     }
 }
+/* Output
+[D, A, E, B, C]
+[A]
+*/
