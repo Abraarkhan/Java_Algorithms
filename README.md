@@ -49,6 +49,7 @@ And run the algorithm you want to test out.
 * [Pythagoran Triplet](https://github.com/Abraarkhan/Java_Algorithms/blob/main/pythagoreanTriplet.java)
 * [Size of Array](https://github.com/Abraarkhan/Java_Algorithms/blob/main/size%20of%20array.java)
 * [Subsets of Array](https://github.com/Abraarkhan/Java_Algorithms/blob/main/subsetsofarray.java)
+* [Integer Array without duplicate elements](https://github.com/Abraarkhan/Java_Algorithms/blob/main/NoDupArray.java)
 
 
 <br><br>
