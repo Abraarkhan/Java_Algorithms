@@ -3,7 +3,7 @@
     
 import java.util.*; 
     
-public class GFG { 
+public class linkedlist_addele { 
     
     public static void main(String args[]) 
     { 
@@ -16,3 +16,7 @@ public class GFG {
         System.out.println(ll); 
     } 
 } 
+/*Output
+[D, A, E, B, C]
+[A]
+*/
