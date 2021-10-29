@@ -11,12 +11,11 @@ public class linkedlist_addele {
     
         ll.add("Hello"); 
         ll.add("Hacktoberfest"); 
-        ll.add(1, "!!!"); 
+        ll.add(2, "!!!"); 
     
         System.out.println(ll); 
     } 
 } 
 /*Output
-[D, A, E, B, C]
-[A]
+[Hello, Hacktoberfest, !!!]
 */
