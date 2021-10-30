@@ -50,6 +50,7 @@ And run the algorithm you want to test out.
 * [Size of Array](https://github.com/Abraarkhan/Java_Algorithms/blob/main/size%20of%20array.java)
 * [Subsets of Array](https://github.com/Abraarkhan/Java_Algorithms/blob/main/subsetsofarray.java)
 * [Integer Array without duplicate elements](https://github.com/Abraarkhan/Java_Algorithms/blob/main/NoDupArray.java)
+* [Construct Stack using Array](https://github.com/Abraarkhan/Java_Algorithms/blob/main/stackArrayApp.java)
 
 
 <br><br>
