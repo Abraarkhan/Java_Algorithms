@@ -1,12 +1,12 @@
-# Introduction to Hacktoberfest 2022🚀
+# <div align="center">Introduction to Hacktoberfest 2022
 
 <img width="2400" alt="Email Banners-Dark" src="https://user-images.githubusercontent.com/78409764/193025272-d0a721f8-ccd6-460f-adb4-73b236d0daea.png">
 
-## Welcome to Hacktoberfest 2022!🎉
+## <div align="center"> Welcome to Hacktoberfest 2022!
 Hacktoberfest is a month-long event of open-source with various software developers from all over the world participating in it, bringing their ideas to life through various projects. It encompasses a month-long jam of skill enhancement, contribution to numerous projects and broadening of the developers’ community. 
 Coding enthusiasts and even beginners to open-source can contribute to these projects by preparing and sharing the project for collaboration and by contributing to the betterment of the project via pull requests.
 
-# <div align="center"> Java Algorithms 
+## <div align="center"> Java Algorithms 
 
 <div align="center">Java Algorithms is a set of good solutions of CP questions in Java.</div>
 
@@ -14,7 +14,7 @@ Coding enthusiasts and even beginners to open-source can contribute to these pro
 
 <br>
 
-## Rules and Regulations📃
+## <div align="center"> Rules and Regulations📃
 
 
 *  Register anytime between September 26 and October 31.
@@ -29,7 +29,7 @@ Coding enthusiasts and even beginners to open-source can contribute to these pro
 
 *  More rules can ve viewed in the official website of [Hacktoberfest](https://hacktoberfest.com/participation/).
 
-## Usage
+## <div align="center"> Usage
 
 Clone the repository:
 
@@ -40,7 +40,7 @@ And run the algorithm you want to test out.
 <br>
 <br>
 
-## Available Algorithms
+## <div align="center"> Available Algorithms
 <br>
 
 * [BMI Calculator](https://github.com/Abraarkhan/Java_Algorithms/blob/main/BMI.java)
