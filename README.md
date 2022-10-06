@@ -1,3 +1,11 @@
+# Introduction to Hacktoberfest 2022🚀
+
+<img width="2400" alt="Email Banners-Dark" src="https://user-images.githubusercontent.com/78409764/193025272-d0a721f8-ccd6-460f-adb4-73b236d0daea.png">
+
+## Welcome to Hacktoberfest 2022!🎉
+Hacktoberfest is a month-long event of open-source with various software developers from all over the world participating in it, bringing their ideas to life through various projects. It encompasses a month-long jam of skill enhancement, contribution to numerous projects and broadening of the developers’ community. 
+Coding enthusiasts and even beginners to open-source can contribute to these projects by preparing and sharing the project for collaboration and by contributing to the betterment of the project via pull requests.
+
 # <div align="center"> Java Algorithms 
 
 <div align="center">Java Algorithms is a set of good solutions of CP questions in Java.</div>
@@ -5,6 +13,21 @@
 </div>
 
 <br>
+
+## Rules and Regulations📃
+
+
+*  Register anytime between September 26 and October 31.
+
+*  Pull requests can be made in any GITHUB or GITLAB hosted project that’s participating in Hacktoberfest (look for the “hacktoberfest” topic).
+
+*  Project maintainers must accept your pull/merge requests for them to count toward your total.
+
+*  Have 4 pull/merge requests accepted between October 1 and October 31 to complete Hacktoberfest.
+
+*  The first 40,000 participants (maintainers and contributors) who complete Hacktoberfest can elect to receive one of two prizes: a tree planted in their name, or the     Hacktoberfest 2022 t-shirt.
+
+*  More rules can ve viewed in the official website of [Hacktoberfest](https://hacktoberfest.com/participation/).
 
 ## Usage
 
