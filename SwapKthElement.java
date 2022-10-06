@@ -1,4 +1,4 @@
-package GFG.Arrays;
+package Sudipta.Arrays;
 
 class swapKthElement {
     String longest(String names[], int n) {
