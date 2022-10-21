@@ -6,7 +6,6 @@
 
 <br>
 
-## Usage
 
 Clone the repository:
 
