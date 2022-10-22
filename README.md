@@ -99,6 +99,7 @@ And run the algorithm you want to test out.
 * [Subsets of Array](https://github.com/Abraarkhan/Java_Algorithms/blob/main/subsetsofarray.java)
 * [Topological Sort](https://github.com/Abraarkhan/Java_Algorithms/blob/main/topologicalSort.java)
 * [Trie Node](https://github.com/Abraarkhan/Java_Algorithms/blob/main/trie.java)
+* [Disjoint Set Union](https://github.com/Abraarkhan/Java_Algorithms/blob/main/DisjointSetUnion.java)
 
 <br><br>
 
