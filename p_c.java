@@ -23,6 +23,8 @@ r = scan.nextInt();
 System.out.print("NCR = " +(fact(n)/(fact(n-r)*fact(r))));
 System.out.print("nNPR = " +(fact(n)/(fact(n-r))));
 }
+
+=======
 }package Edureka;
 import java.util.Scanner;
 public class nprandncr {
@@ -48,4 +50,5 @@ r = scan.nextInt();
 System.out.print("NCR = " +(fact(n)/(fact(n-r)*fact(r))));
 System.out.print("nNPR = " +(fact(n)/(fact(n-r))));
 }
+
 }

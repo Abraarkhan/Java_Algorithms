@@ -14,6 +14,8 @@ Coding enthusiasts and even beginners to open-source can contribute to these pro
 
 <br>
 
+ main
+
 ## <div align="center"> Rules and Regulations📃
 
 
@@ -30,6 +32,7 @@ Coding enthusiasts and even beginners to open-source can contribute to these pro
 *  More rules can ve viewed in the official website of [Hacktoberfest](https://hacktoberfest.com/participation/).
 
 ## <div align="center"> Usage
+ main
 
 Clone the repository:
 
