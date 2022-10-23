@@ -59,6 +59,7 @@ And run the algorithm you want to test out.
 * [Dutch National Flag](https://github.com/Abraarkhan/Java_Algorithms/blob/main/DutchNationalFlagAlgo.java)
 * [Examination Map](https://github.com/Abraarkhan/Java_Algorithms/blob/main/Examination_map.java)
 * [Factorial Trailing Zeroes](https://github.com/Abraarkhan/Java_Algorithms/blob/main/Factorial_Trailing_Zeroes.java)
+* [Factors](https://github.com/Abraarkhan/Java_Algorithms/blob/main/Factors.java)
 * [Fibonacci](https://github.com/Abraarkhan/Java_Algorithms/blob/main/Fibonacci.java)
 * [Kruskals Algorithm](https://github.com/Abraarkhan/Java_Algorithms/blob/main/Kruskals_Algo.java)
 * [Largest Rectangular Area in Histogram](https://github.com/Abraarkhan/Java_Algorithms/blob/main/Largest_Rectangular_Area_in_a_Histogram.java)
